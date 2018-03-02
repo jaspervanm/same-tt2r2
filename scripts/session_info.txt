@@ -1,0 +1,32 @@
+R version 3.4.0 (2017-04-21)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 7 x64 (build 7601) Service Pack 1
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Dutch_Netherlands.1252  LC_CTYPE=Dutch_Netherlands.1252   
+[3] LC_MONETARY=Dutch_Netherlands.1252 LC_NUMERIC=C                      
+[5] LC_TIME=Dutch_Netherlands.1252    
+
+attached base packages:
+[1] methods   stats     graphics  grDevices utils     datasets  base     
+
+other attached packages:
+ [1] pander_0.6.0    metafor_1.9-9   Matrix_1.2-10   readxl_1.0.0   
+ [5] ggthemes_3.4.0  caret_6.0-76    ggplot2_2.2.1   lattice_0.20-35
+ [9] purrrlyr_0.0.2  tidyr_0.6.3     dplyr_0.5.0     plyr_1.8.4     
+[13] purrr_0.2.2.2  
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.11       cellranger_1.1.0   nloptr_1.0.4       compiler_3.4.0    
+ [5] iterators_1.0.8    tools_3.4.0        digest_0.6.12      lme4_1.1-13       
+ [9] packrat_0.4.8-1    evaluate_0.10      tibble_1.3.1       gtable_0.2.0      
+[13] nlme_3.1-131       mgcv_1.8-17        rlang_0.1.1        foreach_1.4.3     
+[17] DBI_0.6-1          parallel_3.4.0     SparseM_1.77       stringr_1.2.0     
+[21] knitr_1.16         MatrixModels_0.4-1 stats4_3.4.0       grid_3.4.0        
+[25] nnet_7.3-12        R6_2.2.1           Formula_1.2-1      minqa_1.2.4       
+[29] reshape2_1.4.2     car_2.1-4          magrittr_1.5       scales_0.4.1      
+[33] codetools_0.2-15   ModelMetrics_1.1.0 MASS_7.3-47        splines_3.4.0     
+[37] assertthat_0.2.0   pbkrtest_0.4-7     colorspace_1.3-2   labeling_0.3      
+[41] quantreg_5.33      stringi_1.1.5      lazyeval_0.2.0     munsell_0.4.3     
